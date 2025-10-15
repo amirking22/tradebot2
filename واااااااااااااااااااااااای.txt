@@ -1,0 +1,20 @@
+
+API Key
+
+f58135d1b5ef0f4fdf4fd2bb3956c185 
+Secret Key
+
+46e7919fef732943b910df60f58da861
+این کلید فقط یکبار نمایش داده می‌شود و اگر گم شود قابل بازیابی نیست، لطفاً آن را به درستی ذخیره کنید
+
+111111111111111111111111111111111111111111111111111
+Created successfully
+
+ID      https://phemex.com/account/api-management
+Copy
+23836785-5929-4d09-bca8-997e479d096f
+API Secret
+Copy
+Hf6nMDtbYKW0FLT8b63yf5ZK7m1ETbIxqRBXH9Aj905hYWNmYmMwMC0yMzlkLTQ1MGUtYmQ5MC1mOWU1NDBkNjk5ZWI
+
+111111111111111111111111111111111111111111111111
