@@ -14,11 +14,7 @@ SIGNAL_ONLY = True      # Only generate and send signals
 TELEGRAM_TOKEN: Optional[str] = os.getenv('TELEGRAM_TOKEN')
 
 # List of allowed chat IDs (comma-separated)
-ALLOWED_CHAT_IDS: List[int] = [
-    int(chat_id.strip()) 
-    for chat_id in os.getenv('ALLOWED_CHAT_IDS', '').split(',') 
-    if chat_id.strip().isdigit()
-]
+ALLOWED_CHAT_IDS: List[int] = [37292924]
 
 # Exchange API Keys (only for market data)
 BINANCE_API_KEY: Optional[str] = os.getenv('BINANCE_API_KEY')
